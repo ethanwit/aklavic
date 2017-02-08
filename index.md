@@ -3,7 +3,7 @@
 <div align="center" style="border:1px solid red">
 Fred's fanclub, Only fans and memers allowed! Affiliated with thememers.com.
 </div>
-
+dina is hot 
 <body>
 <div style="position: fixed; z-index: -90; width: 80%; height: 100%">
   <iframe frameborder="0" height="100%" width="100%" 
