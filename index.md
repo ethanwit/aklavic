@@ -12,7 +12,7 @@ Replace your html code:
   <body>
 <div id="content">
 <div id="toptxt">
-Fred's fanclub, Only fans and memers allowed! Affiliated with thememers.com.
+Fred's fanclub, Only fans and memers allowed! Affiliated with thememers.com..
 </div>
 dina is hot
 </div>
