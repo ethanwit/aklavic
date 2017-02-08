@@ -23,28 +23,3 @@ dina is hot
  
   </body>
 </html>
---------------------------------------
-Css:
-Make css file with name "style.css" and put it in the same folder as index.html
----------------------------------------
- 
-#content{
-width: 80%;
-margin-left: 10%;  
-   
-}
-#toptxt{
-    width: 100%;
-  border: solid red 2px;  
-  text-align: center;
-   
-}
-#vid{
-    position: absolute;
-    margin-left: 10%;
-z-index: -10;
-height: 100%;
-width: 80%;    
-   
-   
-}
