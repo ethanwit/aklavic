@@ -1,20 +1,4 @@
 <html>
-<style type="text/css">
-body  {
-      background-color: #3F0;
-}
-#main {
-  height: 10000px;
-  width: 700px;
-  background-color: #FFF;
-  font-size: 36px;
-  font-weight: bold;
-  margin-left: auto;
-  Margin-right: auto;
-}
-</style>
-<body>
- 
 <div id="main">
 <div align="center" style="border:1px solid red">
 Fred's fanclub, Only fans and memers allowed! Affiliated with thememers.com.
@@ -27,4 +11,3 @@ dina is hot
   </iframe>
 </div>
 </body>
-</html>
