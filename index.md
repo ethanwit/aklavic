@@ -12,3 +12,7 @@ Fred's fanclub, Only fans and memers allowed! Affiliated with thememers.com.s
   </iframe>
 </div>
 </body>
+.box{
+    width: 200px;
+    margin: 10px auto;
+}
