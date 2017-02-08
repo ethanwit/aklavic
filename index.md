@@ -3,5 +3,4 @@ fred
 <audio controls>
   <source src="fred.ogg" type="audio/ogg">
   <source src="fred.mp3" type="audio/mpeg">
-Your browser does not support the audio element you piece of shit, fucking fix it for the full effect. Hail fred.
 </audio>
