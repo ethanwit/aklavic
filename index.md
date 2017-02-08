@@ -1,14 +1,10 @@
-<!DOCTYPE html>
 <html>
 <body>
 
-<p>This is a paragraph. This text has no alignment specified.</p>
-
 <div align="center" style="border:1px solid red">
-This is some text in a div element!
+Fred's fanclub, Only fans and memers allowed! Affiliated with thememers.com
 </div>
 
-<p>This is a paragraph. This text has no alignment specified.</p>
 
 </body>
 </html>
