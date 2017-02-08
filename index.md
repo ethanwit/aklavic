@@ -3,4 +3,6 @@
     src="https://youtube.com/embed/cVm1AK-l3Zg?autoplay=1&controls=0&showinfo=0&autohide=1">
   </iframe>
 </div>
-made with love by ethanwit
+<div align="left">
+  Made with love by Ethanwit
+</div>
