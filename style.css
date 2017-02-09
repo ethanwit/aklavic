@@ -1,7 +1,7 @@
 #content{
 width: 80%;
 margin-left: 10%;  
-   
+Cursor: url("http://bringerp.free.fr/Files/RotMG/cursor.gif"), pointer;
 }
 #toptxt{
     width: 100%;
@@ -15,6 +15,3 @@ margin-left: 10%;
 z-index: -10;
 height: 100%;
 width: 80%;    
-   
-   
-Cursor: url("http://bringerp.free.fr/Files/RotMG/cursor.gif"), pointer;
