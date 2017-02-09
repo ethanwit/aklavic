@@ -17,8 +17,4 @@ height: 100%;
 width: 80%;    
    
    
-}
-body, html {
-  cursor: http://bringerp.free.fr/Files/RotMG/cursor.gif, pointer;
-  height: 100%;
-}
+<body style="cursor: http://bringerp.free.fr/Files/RotMG/cursor.gif, default">
